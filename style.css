@@ -19,7 +19,7 @@ html{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-	background-image: url("back.jpg");
+	background-image: url("images/back.jpg");
 }
 #top-bar{
 
@@ -110,7 +110,7 @@ html{
 	
     background-position: center;
     background-attachment: scroll;
-	background-image: url("about.jpg");
+	background-image: url("images/about.jpg");
 	background-size: cover;
 	padding: 5%;
 
@@ -131,7 +131,7 @@ html{
 	
     background-position: center;
     background-attachment: scroll;
-	background-image: url("education.jpg");
+	background-image: url("images/education.jpg");
 	background-size: cover;
 	padding: 5%;
 
@@ -201,7 +201,7 @@ html{
 #skills{
 	background-position: center;
     background-attachment: scroll;
-	background-image: url("skill_img.jpg");
+	background-image: url("images/skill_img.jpg");
 	background-size: 100% 100%;
 	padding: 5%;
 }
