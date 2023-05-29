@@ -1,2 +1,5 @@
 # tulikachatterjee.github.io
-Personal portfolio website 
+A personal portfolio website with my education details,skills and contact details.
+Build using HTML5 and CSS3.
+Click here to see 👇
+https://tulika1508.github.io/tulikachatterjee.github.io/
